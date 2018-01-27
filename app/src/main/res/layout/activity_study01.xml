@@ -87,7 +87,5 @@
                 android:layout_height="wrap_content"
                 android:src="@drawable/user"/>
         </ListView>
-
     </LinearLayout>
-
 </LinearLayout>
